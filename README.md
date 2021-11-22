@@ -20,7 +20,7 @@ limitations under the License.
 
 # ssortsh
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Sort a single-precision floating-point strided array using Shellsort.
 
@@ -201,9 +201,9 @@ console.log( x );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dsortsh`][@stdlib/blas/ext/base/dsortsh]: sort a double-precision floating-point strided array using Shellsort.
--   [`@stdlib/blas/ext/base/gsortsh`][@stdlib/blas/ext/base/gsortsh]: sort a strided array using Shellsort.
--   [`@stdlib/blas/ext/base/ssort2sh`][@stdlib/blas/ext/base/ssort2sh]: simultaneously sort two single-precision floating-point strided arrays based on the sort order of the first array using Shellsort.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dsortsh`][@stdlib/blas/ext/base/dsortsh]</span><span class="delimiter">: </span><span class="description">sort a double-precision floating-point strided array using Shellsort.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gsortsh`][@stdlib/blas/ext/base/gsortsh]</span><span class="delimiter">: </span><span class="description">sort a strided array using Shellsort.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssort2sh`][@stdlib/blas/ext/base/ssort2sh]</span><span class="delimiter">: </span><span class="description">simultaneously sort two single-precision floating-point strided arrays based on the sort order of the first array using Shellsort.</span>
 
 </section>
 
@@ -254,8 +254,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-ssortsh/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-ssortsh?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-ssortsh.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-ssortsh/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
