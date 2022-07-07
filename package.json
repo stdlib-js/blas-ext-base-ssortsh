@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-ssortsh",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Sort a single-precision floating-point strided array using Shellsort.",
   "license": "Apache-2.0",
   "author": {
