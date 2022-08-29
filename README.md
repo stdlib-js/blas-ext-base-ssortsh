@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ssortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssortsh@esm/index.mjs';
+import ssortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssortsh@v0.0.9-esm/index.mjs';
 ```
 
 #### ssortsh( N, order, x, stride )
@@ -148,7 +148,7 @@ ssortsh.ndarray( 3, 1.0, x, 1, x.length-3 );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import ssortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssortsh@esm/index.mjs';
+import ssortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ssortsh@v0.0.9-esm/index.mjs';
 
 var rand;
 var sign;
