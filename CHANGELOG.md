@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-05)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9f94bda`](https://github.com/stdlib-js/stdlib/commit/9f94bda297163561179901566584481aba80d01c) - **refactor:** use `strideX`/`offsetX` parameter names in `blas/ext/base/ssortsh` [(#12542)](https://github.com/stdlib-js/stdlib/pull/12542) _(by Philipp Burckhardt)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`0cbc854`](https://github.com/stdlib-js/stdlib/commit/0cbc854085acdfafd0146f41ad1379e04b8cd980) - **bench:** refactor to use string interpolation in `blas/ext/base/ssortsh` [(#10894)](https://github.com/stdlib-js/stdlib/pull/10894) _(by Partha Das)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 
